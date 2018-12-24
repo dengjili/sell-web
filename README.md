@@ -11,7 +11,7 @@
 | 模块       | 说明          |   进度 |
 | ------------- |:-------------:| ----|
 |[sell-common-lib](sell-common-lib)|公共包管理| 0%|
-|[sell-common-config](sell-common-config) |公共业务| 0%|
+|[sell-common-config](sell-common-config) |公共配置| 0%|
 |[sell-service](sell-service)|业务中心| 0%|
 |[sell-service-admin](sell-service-admin)|业务中心-管理员模块| 0%|
 |[sell-service-auth](sell-service-auth)|业务中心-权限模块| 0%|
