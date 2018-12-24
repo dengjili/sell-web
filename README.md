@@ -2,9 +2,9 @@
 参考企业搭建web项目，采用maven分模块搭建
 
 ## 工程关系
-![工程关系](https://github.com/dengjili/sell-web/blob/master/project-relation.jpg)
+![工程关系](https://raw.githubusercontent.com/dengjili/sell-web/master/project-relation.jpg)
 ## pom关系
-![pom关系](https://github.com/dengjili/sell-web/blob/master/pom-relation.jpg)
+![pom关系](https://raw.githubusercontent.com/dengjili/sell-web/master/pom-relation.jpg)
 
 ## 模块介绍
 
