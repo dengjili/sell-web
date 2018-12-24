@@ -1,7 +1,12 @@
 ## sell-web
 参考企业搭建web项目，采用maven分模块搭建
 
-## 模块
+## 工程关系
+![工程关系](https://github.com/dengjili/sell-web/project-relation.jpg)
+## pom关系
+![pom关系](https://github.com/dengjili/sell-web/pom-relation.jpg)
+
+## 模块介绍
 
 | 模块       | 说明          |   进度 |
 | ------------- |:-------------:| ----|
